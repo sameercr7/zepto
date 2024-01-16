@@ -55,3 +55,8 @@
 .taginput button.highlighted {
   background-color: rgb(255, 255, 255); /* Set your highlighted color here */
 }
+.name-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
